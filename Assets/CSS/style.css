@@ -1,0 +1,48 @@
+* {
+    font-family: serif;
+}
+
+header {
+    color: whitesmoke;
+    background-color: darkgreen;
+    text-align: right;
+    border-bottom: 10px solid darkslategray;
+    position: fixed;
+    top:0;
+    width: 100%;
+
+}
+
+header li {
+    display: inline-block;
+    font-size: large;
+    padding: 20px;
+    margin: 20px;
+}
+
+header li a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+body {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+section {
+    background-color: slategray;
+    border-top: 10px solid darkgreen
+ }
+
+ .contact-spot {
+    width: auto;
+    padding: auto;
+    margin: auto;
+    border:auto;
+    border-radius;
+ }
+
+ button {
+
+ }
